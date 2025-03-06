@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/prezet/chat/blob/main/art/chat.png?raw=true" alt="Chat Screenshot">
+    <img src="https://github.com/benbjurstrom/chat/blob/main/art/chat.png?raw=true" alt="Chat Screenshot">
 </div>
 
 # Laravel AI Chat Starter Kit
@@ -18,7 +18,7 @@ This starter kit integrates the [Vercel AI SDK UI](https://sdk.vercel.ai/docs/ai
 1. **Clone the repository and navigate to the project directory**:
 
     ```bash
-    git clone https://github.com/prezet/chat.git && cd chat
+    git clone https://github.com/benbjurstrom/chat.git && cd chat
     ```
 
 2. **Install Composer and NPM dependencies**:
@@ -79,7 +79,7 @@ After starting the servers, visit `http://localhost:8000` and login using the de
 
 ## Credits
 
-- [All Contributors](https://github.com/prezet/chat/contributors)
+- [All Contributors](https://github.com/benbjurstrom/chat/contributors)
 
 ## License
 
